@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Header.css"
-import caffe from "../../assets/more/2.png"
+import caffe from "../../assets/more/logo1.png"
 
 const Header = () => {
   return (

@@ -1,3 +1,5 @@
 .bgImg{
   background-image: url('../../assets/more/3.png');
+  background-position: center;
+  background-repeat: no-repeat;
 }
